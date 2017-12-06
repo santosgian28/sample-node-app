@@ -1,6 +1,6 @@
 pkg_name=sample-node-app
-pkg_origin=your_origin
-pkg_scaffolding="doltair / sample-node-app"
+pkg_origin=doltair
+pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
 declare -A scaffolding_env
